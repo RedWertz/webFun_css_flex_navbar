@@ -1,0 +1,26 @@
+div {
+    display: flex;
+    background-color: #79b8ff;
+    align-items: center;
+}
+h1 {
+    font-family: "Montserrat";
+    color: white;
+    font-size: 24px;
+}
+img {
+    max-height: 50px;
+}
+ul {
+    margin: 0 0 0 5%;
+}
+ul li {
+    display: inline;
+    font-family: "Montserrat";
+    font-size: 14px;
+    padding: 0 100px;
+}
+a {
+    color: white;
+    text-decoration: none;
+}
